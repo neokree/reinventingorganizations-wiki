@@ -303,7 +303,7 @@ faq:
        se il pesce non conoscesse l'acqua perché è tutta intorno a lui).\r
 
       \r\n"
-  - question: Perché dovrei preoccuparmi di rendere esplicite questi presupposti?
+  - question: Perché dovrei preoccuparmi di rendere espliciti questi presupposti?
     answer: >-
       Considerate questi tre motivi:
 

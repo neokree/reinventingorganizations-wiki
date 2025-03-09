@@ -73,7 +73,7 @@ perspective: >-
   Le riunioni tendono a tenersi solo quando sono necessarie. Alcuni motivi includono:
 
 
-  * Richiedere una consulenza quando ciò è richiesto dal processo di consulenza
+  * Chiedere un consiglio quando ciò è richiesto dal processo di consulenza
 
   * Condividere informazioni
 

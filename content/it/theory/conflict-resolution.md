@@ -2,181 +2,179 @@
 layout: article
 tags: theory
 key: Conflict resolution
-name: Conflict resolution
+name: Risoluzione dei conflitti
 sortOrder: 4
 category: Daily practices
 intro: >-
-  The topic of Conflict Resolution includes how conflicts are dealt with and by
-  whom. In particular we discuss the types of processes used, factors that
-  reduce conflict avoidance and structures that prevent conflict.
+  Il tema della Risoluzione dei Conflitti include come i conflitti vengono gestiti e da chi. In particolare, discutiamo i tipi di processi utilizzati, i fattori che riducono l'evitamento del conflitto e le strutture che prevengono il conflitto.
 
 
   ![](/media/conflict.jpg)
 perspective: >-
-  Conflict resolution is a vital piece of the system in a Teal organization. If
-  there is no boss to act as a conflict meditator, then a new process to handle
-  conflict is required. In a Teal organization, conflict resolution is based on
-  peer relationships. Without this approach, the organization would find it very
-  difficult, if not impossible, to function.
+  La risoluzione dei conflitti è una parte vitale del sistema in un'organizzazione Teal. Se non c'è un capo che funge da mediatore dei conflitti, è necessario un nuovo processo per gestire i conflitti. In un'organizzazione Teal, la risoluzione dei conflitti si basa sulle relazioni tra pari. Senza questo approccio per l'organizzazione sarebbe molto difficile, se non impossibile, funzionare.
 
 
-  Most Teal organizations work on certain assumptions about human nature: that workers are thoughtful, trustworthy adults, capable of being accountable and responsible for their decisions and actions. In a workplace based on Teal assumptions, a clear conflict resolution process, together with appropriate training, gives people the path and skills to work through disagreements with maturity and grace
+  La maggior parte delle organizzazioni Teal si basa su alcune assunzioni sulla natura umana: che i lavoratori sono adulti riflessivi e affidabili, capaci di essere responsabili delle loro decisioni e azioni. In un ambiente di lavoro basato sui presupposti Teal un chiaro processo di risoluzione dei conflitti, insieme a una formazione adeguata, fornisce alle persone il percorso e le competenze per affrontare i disaccordi con maturità e grazia.
 
 
-  Every historical stage has given birth to a distinct perspective on conflict resolution and to very different practices:
+  Ogni fase storica ha dato vita a una prospettiva distinta sulla risoluzione dei conflitti e a pratiche molto diverse:
 
 
-  #### **Red organizations**
+  #### **Organizzazioni Rosse**
 
 
-  In the [Red paradigm](../red-organizations/), there is dominant exercise of power by the boss or leader to keep others in line. Fear is the glue of the organization. In general, conflict is handled by suppression, power or dominance, and strict rules are enforced by fear of consequences.
+  Nel [Paradigma Rosso](../red-organizations/), c'è un esercizio dominante del potere da parte del capo o leader per mantenere gli altri in riga. La paura è il collante dell'organizzazione. In generale, il conflitto viene gestito tramite soppressione, potere o dominio, e regole rigide sono imposte dalla paura delle conseguenze.
 
 
-  #### **Amber organizations**
+  #### **Organizzazioni Ambra**
 
 
-  The [Amber paradigm](../amber-paradigm-and-organizations/) has formalized roles within a hierarchical pyramid structure and top-down command and control (what and how). Stability is valued above all and is maintained through clearly defined roles and processes.
+  Il [Paradigma Ambra](../amber-paradigm-and-organizations/) ha ruoli formalizzati all'interno di una struttura piramidale gerarchica e un comando e controllo dall'alto verso il basso (cosa e come). La stabilità è valutata sopra ogni cosa ed è mantenuta attraverso ruoli e processi chiaramente definiti.
 
 
-  Methods for managing conflict include avoidance or suppression. Rules are imposed by those with authority and may be enforced through legal action. These types of organizations have strong HR processes for managing conflict and grievances between employee and employer.
+  I metodi per gestire i conflitti includono l'evitamento o la soppressione. Le regole sono imposte da coloro che hanno autorità e possono essere applicate tramite azioni legali. Questi tipi di organizzazioni hanno forti processi di gestione delle risorse umane per gestire i conflitti e i reclami tra dipendente e datore di lavoro.
 
 
-  #### **Orange organizations**
+  #### **Organizzazioni Arancioni**
 
 
-  In the [Orange paradigm](../orange-paradigm-and-organizations/), there is also a hierarchical structure, but management is by objective (definition of the what; with more freedom on the how). In many Orange organisations, although there are formal conflict resolution procedures, conflict is often not well adressed. Although individuals are often encouraged to resolve disagreements by themselves, conflict may often need to be settled by intervention from a third party. This is most often done by referring the issue to the boss or by deferring to HR policies and procedures. These procedures create a level of objective independence from "the those" in conflict.
+  Nel [Paradigma Arancione](../orange-paradigm-and-organizations/), c'è anche una struttura gerarchica, ma la gestione è per obiettivi (definizione del cosa; con più libertà sul come). In molte organizzazioni Arancioni, sebbene ci siano procedure formali di risoluzione dei conflitti, il conflitto spesso non viene affrontato bene. Sebbene gli individui siano spesso incoraggiati a risolvere i disaccordi da soli, il conflitto può spesso dover essere risolto tramite l'intervento di una terza parte. Questo viene fatto più spesso riferendo la questione al capo o deferendo alle politiche e procedure delle risorse umane. Queste procedure creano un livello di indipendenza oggettiva da "coloro" in conflitto.
 
 
-  #### **Green organizations**
+  #### **Organizzazioni Verdi**
 
 
-  The [Green paradigm ](../green-paradigm-and-organizations/)again uses a classical pyramid structure, but with a stronger focus on empowerment. Green organizations have values-based cultures that include principles of integrity, respect, and openness. There is a large investment in fostering collaboration, communication, problem solving and drafting agreements that meet underlying needs. These processes can sometimes remove the source of conflict. When they do arise, conflicts can take a long time to resolve as groups seek to find a harmonious solution. However, the boss is usually the final arbiter in conflict situations.
+  Il [Paradigma Verde](../green-paradigm-and-organizations/) utilizza ancora una struttura piramidale classica, ma con un focus più forte sull'empowerment. Le organizzazioni Verdi hanno culture basate sui valori che includono principi di integrità, rispetto e apertura. C'è un grande investimento nel promuovere la collaborazione, la comunicazione, la risoluzione dei problemi e la redazione di accordi che soddisfano i bisogni sottostanti. Questi processi possono a volte rimuovere la fonte del conflitto. Quando sorgono, i conflitti possono richiedere molto tempo per essere risolti poiché i gruppi cercano di trovare una soluzione armoniosa. Tuttavia, il capo è di solito l'arbitro finale nelle situazioni di conflitto.
 
 
-  #### **Teal organizations**
+  #### **Organizzazioni Teal**
 
 
-  In [Teal organizations](../teal-paradigm-and-organizations/), conflict is seen as a natural part of human interaction and, when safely supported, is often viewed as healthy and creative. Conflict handled with grace and tenderness can create possibility and learning for all involved. In Teal organizations time is regularly devoted to surface and address conflicts in individual and group settings. Often formal, multi-step conflict resolution practices are used and everyone is trained in conflict management. Conflict is restricted to the parties involved, and mediators, or peers who might be asked to serve on a mediating panel. Such a panel rarely has responsibility to impose a solution. The focus is instead on helping the involved parties find a solution.
+  Nel [Paradigma Teal](../teal-paradigm-and-organizations/), il conflitto è visto come una parte naturale dell'interazione umana e, quando supportato in modo sicuro, è spesso considerato sano e creativo. Il conflitto gestito con grazia e tenerezza può creare possibilità e apprendimento per tutti i coinvolti. Nelle organizzazioni Teal, si dedica regolarmente del tempo a far emergere e affrontare i conflitti in contesti individuali e di gruppo. Spesso vengono utilizzate pratiche formali di risoluzione dei conflitti in più fasi e tutti sono formati nella gestione dei conflitti. Il conflitto è limitato alle parti coinvolte e ai mediatori, o ai pari che potrebbero essere chiamati a presentare al panel. I presentatori o mediatori raramente hanno la responsabilità di imporre una soluzione. L'attenzione è invece rivolta ad aiutare le parti coinvolte a trovare una soluzione.
 inPractice: >-
-  **An organizational culture that supports effective conflict resolution** 
+  **Una cultura organizzativa che supporta una risoluzione efficace dei conflitti** 
 
 
-  Conflict resolution mechanisms can be difficult to put in place and to maintain. The process is effective to the degree that there is a culture within the workplace where people feel safe and encouraged to hold each other to account, even when that feels uncomfortable.
+  I meccanismi di risoluzione dei conflitti possono essere difficili da mettere in atto e da mantenere. Il processo è efficace nella misura in cui esiste una cultura all'interno del luogo di lavoro in cui le persone si sentono sicure e incoraggiate a ritenersi reciprocamente responsabili, anche quando ciò risulta scomodo.
 
 
-  Here are some basic principles that underlie many of the Teal organisation's approaches to conflict in a supportive culture:
+  Ecco alcuni principi di base che sottendono molti degli approcci delle organizzazioni Teal ai conflitti in una cultura di supporto:
 
 
-  * It’s impossible to change other people. We can only change ourselves. 
+  * È impossibile cambiare gli altri. Possiamo solo cambiare noi stessi. 
 
-  * We take ownership for our thoughts, beliefs, words, and actions.
+  * Ci assumiamo la responsabilità dei nostri pensieri, credenze, parole e azioni.
 
-  * We don’t spread rumors.
+  * Non diffondiamo voci o gossip.
 
-  * We don’t talk behind someone’s back.
+  * Non parliamo alle spalle di qualcuno.
 
-  * We resolve disagreements one-on-one and don’t drag other people into  the problem.
+  * Risolviamo i disaccordi tra di noi e non trasciniamo altre persone nel problema.
 
-  * We don’t blame problems on others. When we feel like blaming, we take it as an invitation to reflect on how we might be part of the problem (and the solution).
+  * Non incolpiamo gli altri per i problemi. Quando ci sentiamo di incolpare, lo consideriamo un invito a riflettere su come potremmo essere parte del problema (e della soluzione).
 
-  * We focus on strengths more than weaknesses, on opportunities more than problems. 
-
-
-  Therefore, in addition to specific conflict resolution processes, other structures are needed to create and maintain this type of supportive culture. For instance, many organizations find it helpful to establish a set of values and translate these values into concrete behaviors that are either encouraged or declared unacceptable in the community of colleagues. Many Teal organizations also institute specific meeting practices to help participants interact with each other from a place of wholeness, to keep their egos in check and to ensure everybody’s voice is heard. This might be done by, for example, starting a meeting with a minute of silence, finishing a meeting with a round of appreciation or a structured decision-making process. Another key contributor to a supportive culture is the office space, which should feel safe, provide place for quiet reflection and encourage individual and collective wholeness.
+  * Ci concentriamo più sui punti di forza che sulle debolezze, più sulle opportunità che sui problemi. 
 
 
-  #### **How conflicts are addressed**
+  Pertanto, oltre a specifici processi di risoluzione dei conflitti, sono necessarie altre strutture per creare e mantenere questo tipo di cultura di supporto. Ad esempio, molte organizzazioni trovano utile stabilire un insieme di valori e tradurre questi valori in comportamenti concreti che sono incoraggiati o dichiarati inaccettabili nella comunità dei colleghi. Molte organizzazioni Teal istituiscono anche pratiche specifiche per le riunioni per aiutare i partecipanti a interagire tra loro da un luogo di completezza, a tenere sotto controllo i loro ego e a garantire che la voce di tutti sia ascoltata. Questo potrebbe essere fatto, ad esempio, iniziando una riunione con un minuto di silenzio, terminando una riunione con un giro di apprezzamenti o un processo decisionale strutturato. Un altro contributo chiave a una cultura di supporto è lo spazio ufficio, che dovrebbe sentirsi sicuro, fornire un luogo per la riflessione tranquilla e incoraggiare la completezza individuale e collettiva.
 
 
-  In a conventional workplace, people often raise a dispute with a boss to settle the matter. In self-managing organizations, disagreements are resolved among peers, often using a conflict resolution process. Peers hold each other to account for their mutual commitments and responsibilities. Holding colleagues accountable in this way can feel uncomfortable and Teal organisations sometimes offer support and practices that encourage openness and emotional intelligence to emerge. Broadly there are three types of practices that Teal organizations put in place to help deal with conflicts.
+  #### **Come vengono affrontati i conflitti**
 
 
-  * First, methods are developed to help people bring tensions to the surface. 
-
-  * Second, clearly defined conflict resolution processes are available to help people safely confront each other when needed. 
-
-  * Third, most self-managing organizations train every new recruit in conflict resolution and interpersonal skills. 
+  In un ambiente di lavoro convenzionale, le persone spesso sollevano una controversia con un capo per risolvere la questione. Nelle organizzazioni autogestite, i disaccordi vengono risolti tra pari, spesso utilizzando un processo di risoluzione dei conflitti. I pari si mantengono responsabili dei loro impegni e responsabilità prese in modo reciproco. Mantenere i colleghi responsabili in questo modo può risultare scomodo e le organizzazioni Teal a volte offrono supporto e pratiche che incoraggiano l'emergere dell'apertura e dell'intelligenza emotiva. In generale, ci sono tre tipi di pratiche che le organizzazioni Teal mettono in atto per aiutare a gestire i conflitti.
 
 
-  ##### ***Bringing tensions to the surface***
+  * In primo luogo, vengono sviluppati metodi per aiutare le persone a portare le tensioni in superficie. 
+
+  * In secondo luogo, sono definiti processi di risoluzione dei conflitti per aiutare le persone a confrontarsi in modo sicuro quando necessario. 
+
+  * In terzo luogo, la maggior parte delle organizzazioni autogestite forma ogni nuovo assunto nella risoluzione dei conflitti e nelle competenze interpersonali. 
 
 
-  It can be hard for someone to stand up to a colleague and say, “We need to talk.”. Processes used by some organizations include regularly scheduled group meetings, company retreats, purpose circles and values days. Surfacing becomes a way of helping others to view conflict as normal, creative and a way of learning about diversity and difference. These practices enable others to share their vulnerabilities, see [creating safe spaces](../safe-space/).
+  ##### ***Portare le tensioni in superficie***
 
 
-  Here are some examples:
+  Può essere difficile per qualcuno affrontare un collega e dire: "Dobbiamo parlare.". I processi utilizzati da alcune organizzazioni includono convegni regolarmenti programmati, ritiri aziendali, cerchi di scopo e giornate dei valori. Far emergere le tensioni diventa un modo per aiutare gli altri a vedere il conflitto come normale, creativo e un modo per apprendere la diversità e la differenza. Queste pratiche permettono agli altri di condividere le loro vulnerabilità, vedi [creare spazi sicuri](../safe-space/).
 
 
-  * At ESBZ, a school in Berlin, every class gets together at a fixed time each week to discuss and deal with tensions in the group. The meeting is facilitated by a student, who supports a number of ground rules that keep the discussion safe. 
-
-  * At Heiligenfeld, once a year, colleagues in every team rate the quality of their interaction with other teams. The result is a company-wide “heat map” that reveals which teams should have a conversation to improve their collaboration. 
-
-  * RHD holds a bi-monthly “-isms in the workplace" meeting. Anyone feeling that the organization should pay attention to a specific form or occurrence of racism, sexism, or any other “-ism” can join the meeting. 
+  Ecco alcuni esempi:
 
 
-  ##### ***Conflict resolution processes***
+  * All'ESBZ, una scuola di Berlino, ogni classe si riunisce a un orario fisso ogni settimana per discutere e affrontare le tensioni nel gruppo. La riunione è facilitata da uno studente, che supporta una serie di regole di base che mantengono la discussione sicura. 
+
+  * A Heiligenfeld, una volta all'anno, i colleghi di ogni team valutano la qualità della loro interazione con altri team. Il risultato è una "heat map" aziendale che rivela quali team dovrebbero avere una conversazione per migliorare la loro collaborazione. 
+
+  * RHD tiene una riunione bimestrale sugli "-ismi sul posto di lavoro". Chiunque ritenga che l'organizzazione debba prestare attenzione a una specifica forma o occorrenza di razzismo, sessismo o qualsiasi altro "-ismo" può partecipare alla riunione. 
 
 
-  In self-managing organisations, having a clear and well understood conflict resolution process helps people raise issues. Typical conflict resolution mechanisms include: one-on-one discussion, mediation by a peer and mediation by a panel. Some organizations also use team or individual coaching to work through an upset.
+  ##### ***Processi di risoluzione dei conflitti***
 
 
-  For example, :
+  Nelle organizzazioni autogestite, avere un processo di risoluzione dei conflitti chiaro e ben compreso aiuta le persone a sollevare questioni. I meccanismi tipici di risoluzione dei conflitti includono: discussione 'uno a uno', mediazione da parte di un pari e mediazione da parte di un panel. Alcune organizzazioni utilizzano anche il coaching di team o individuale per affrontare un problema.
 
 
-  * In the first phase, the two people sit together and try to sort it out privately. 
-
-  * If they can’t find a solution agreeable to both, they nominate a colleague they both trust to act as a mediator. The mediator doesn’t impose a decision. Rather he or she supports the participants in coming to their own solution. 
-
-  * If mediation fails, a panel of topic-relevant colleagues is convened. Again the panel does not impose a solution. 
-
-  * If resolution is not found, the founder or president might be called into the panel to add to the panel’s moral weight (but again, not to impose a solution). 
+  Ad esempio:
 
 
-  ##### ***Training in Interpersonal skills***
+  * Nella prima fase, le due persone si siedono insieme e cercano di risolvere la questione privatamente. 
+
+  * Se non riescono a trovare una soluzione accettabile per entrambi, nominano un collega di cui entrambi si fidano per agire come mediatore. Il mediatore non impone una decisione. Piuttosto, supporta i partecipanti nel trovare la loro soluzione. 
+
+  * Se la mediazione fallisce, viene convocato un panel di colleghi rilevanti per l'argomento. Anche in questo caso, il panel non impone una soluzione. 
+
+  * Se non viene trovata una soluzione, il fondatore o il presidente potrebbe essere chiamato al panel per aggiungere peso morale al panel (ma ancora una volta, non per imporre una soluzione). 
 
 
-  Because effective conflict resolution skills are so central in self-managing organizations, many organizations train all their colleagues in interpersonal skills to enable them to deal gracefully with conflict. Generally in their first weeks at work, new hires are given foundational training including: self-management, deep listening, dealing constructively with conflict and creating a safe environment. For instance, companies like ESBZ and Buurtzorg train colleagues in [Nonviolent Communication ](https://en.wikipedia.org/wiki/Nonviolent_Communication)developed by Marshal Rosenberg.
+  ##### ***Formazione nelle competenze interpersonali***
+
+
+  Poiché le competenze efficaci di risoluzione dei conflitti sono così centrali nelle organizzazioni autogestite, molte organizzazioni formano tutti i loro colleghi nelle competenze interpersonali per permettere loro di affrontare con grazia i conflitti. Generalmente, nelle prime settimane di lavoro, i nuovi assunti ricevono una formazione di base che include: autogestione, ascolto profondo, gestione costruttiva dei conflitti e creazione di un ambiente sicuro. Ad esempio, aziende come ESBZ e Buurtzorg formano i colleghi nella [Comunicazione Nonviolenta](https://it.wikipedia.org/wiki/Comunicazione_nonviolenta) sviluppata da Marshal Rosenberg.
 faq:
-  - question: If so much time is spent talking through every conflict, when does the
-      work get done?
-    answer: Working through conflict in a collaborative way without a solution
-      imposed by a boss can take time. However, the structure of Teal
-      organizations within which employees are trusted to make decisions
-      collaboratively from a place of wholeness and care for others, prevents
-      many conflicts from happening in the first place. Also, many Teal
-      organizations extensively train their employees in effective communication
-      and similar skills that make talking through conflict an easier and faster
-      process. Even if resolving conflict does take some extra time, there are
-      many benefits, such as increased productivity from happier and more
-      empowered workers.
-  - question: Doesn’t it usually end up with a few team members doing most of work
-      because there is no boss to oversee the situation when someone slacks off?
-    answer: In traditional companies, when one person doesn’t deliver, colleagues
-      grumble and complain but leave it to the person’s boss to do something
-      about it. In self-managing organizations, people have to step up and
-      confront colleagues who fail to uphold their commitments. This can
-      sometimes be difficult or uncomfortable. Teal organizations invest a lot
-      of time and effort in giving people the skills and resources they need to
-      do this effectively.
-  - question: Are peers really fully trusted to resolve conflicts? In Teal
-      organizations there is still a founder or CEO. Doesn’t this person have
-      the final say?
-    answer: When there is disagreement between two colleagues, they may try to send
-      it up to the founder or CEO or other person deemed to have more authority.
-      The temptation to settle the matters in this way is resisted. Instead, the
-      conflict resolution mechanism helps colleagues work through the conflict
-      together. In this way, they learn that their voice is valued and they do
-      have the power to hold peers to their commitments, without the
-      intervention of a boss, even if it can be uncomfortable at times. A CEO or
-      founder might be involved later on if the original colleagues can’t sort
-      the issue out one-on-one and if they choose this person as a mediator or
-      panel member. But neither a mediator nor a panel can impose a solution.
-      Other support may also be requested when teams run into trouble, but
-      ultimately the participants must find their own solution.
+  - question: Se si passa così tanto tempo a discutere ogni conflitto, quando si
+      lavora?
+    answer: Lavorare attraverso i conflitti in modo collaborativo senza una soluzione
+      imposta da un capo può richiedere tempo. Tuttavia, la struttura delle
+      organizzazioni Teal all'interno delle quali i dipendenti sono fidati di
+      prendere decisioni in modo collaborativo da un luogo di completezza e cura
+      per gli altri, previene molti conflitti dall'accadere in primo luogo.
+      Inoltre, molte organizzazioni Teal formano ampiamente i loro dipendenti
+      nella comunicazione efficace e in competenze simili che rendono il
+      confronto dei conflitti un processo più facile e veloce. Anche se risolvere
+      i conflitti richiede un po' di tempo in più, ci sono molti benefici, come
+      una maggiore produttività da parte di lavoratori più felici e più
+      responsabilizzati.
+  - question: Non finisce di solito con pochi membri del team che fanno la maggior
+      parte del lavoro perché non c'è un capo a supervisionare la situazione
+      quando qualcuno si rilassa?
+    answer: Nelle aziende tradizionali, quando una persona non consegna, i colleghi
+      si lamentano ma lasciano che sia il capo a fare qualcosa
+      al riguardo. Nelle organizzazioni autogestite, le persone devono farsi
+      avanti e affrontare i colleghi che non rispettano i loro impegni. Questo
+      può a volte essere difficile o scomodo. Le organizzazioni Teal investono
+      molto tempo e sforzi nel fornire alle persone le competenze e le risorse
+      di cui hanno bisogno per farlo in modo efficace.
+  - question: I pari sono davvero completamente fidati per risolvere i conflitti? Nelle
+      organizzazioni Teal c'è ancora un fondatore o un CEO. Questa persona non ha
+      l'ultima parola?
+    answer: Quando c'è disaccordo tra due colleghi, questi possono essere tentati di cercare di inviarlo al
+      fondatore o al CEO o a un'altra persona ritenuta avere più autorità. 
+      Cerchiamo di resistere a questa tentazione.
+      Il meccanismo di risoluzione dei conflitti aiuta i colleghi a
+      lavorare attraverso il conflitto insieme. In questo modo, imparano che la
+      loro voce è valorizzata e che hanno il potere di ritenere i pari
+      responsabili dei loro impegni, senza l'intervento di un capo, anche se può
+      essere scomodo a volte. Un CEO o un fondatore potrebbe essere coinvolto
+      più tardi se i colleghi originali non riescono a risolvere la questione
+      uno a uno e se scelgono questa persona come mediatore o membro del
+      panel. Ma né un mediatore né un panel possono imporre una soluzione.
+      Altri supporti possono anche essere richiesti quando i team incontrano
+      difficoltà, ma in ultima analisi, i partecipanti devono trovare la loro
+      soluzione.
 relatedTheory:
   - Culture and Values
   - Onboarding
   - Dismissal
   - Training and Coaching
 ---
-to be deleted
+removed
