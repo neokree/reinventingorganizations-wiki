@@ -2,72 +2,68 @@
 layout: article
 tags: theory
 key: Information Flow
-name: Information Flow
+name: Flusso delle Informazioni
 sortOrder: 5
 category: Daily practices
-intro: This article describes how information and information flow are used in
-  different management paradigms and organizational contexts throughout the
-  journey of evolution.
+intro: Questo articolo descrive come le informazioni e il flusso delle informazioni sono utilizzati in diversi paradigmi di gestione e contesti organizzativi nel corso dell'evoluzione.
 perspective: >-
-  Every historical stage has given birth to a distinct perspective on
-  **Information Flow**, and to very different practices:
+  Ogni fase storica ha dato origine a una prospettiva distinta sul
+  **Flusso delle Informazioni**, e a pratiche molto diverse:
 
 
-  ### Red Organizations
+  ### Organizzazioni Rosse
 
 
-  In [Red Organizations](../red-organizations/), information and information flow are controlled by those with power, and are used to control and manipulate people. Information is controlled and propagated through storytelling, issuing orders, making threats, bribing and by spying. The boss usually has ownership of information and controls the means of communication. Power is used to keep followers dependent and aligned. The objective truth of information is often less important than its subjective value, i.e. the truth has no value or meaning if there is more to gain from telling a lie! In this context, people only attend to the information which they perceive as serving their own personal needs.
+  Nelle [Organizzazioni Rosse](../red-organizations/), le informazioni e il flusso delle informazioni sono controllati da coloro che detengono il potere e sono utilizzati per controllare e manipolare le persone. Le informazioni sono controllate e propagate attraverso la narrazione, l'emissione di ordini, le minacce, la corruzione e lo spionaggio. Il capo di solito possiede le informazioni e controlla i mezzi di comunicazione. Il potere è usato per mantenere i seguaci dipendenti e allineati. La verità oggettiva delle informazioni è spesso meno importante del loro valore soggettivo, cioè la verità non ha valore o significato se c'è più da guadagnare raccontando una bugia! In questo contesto, le persone si occupano solo delle informazioni che percepiscono come utili ai propri bisogni personali.
 
 
-  ### Amber Organizations
+  ### Organizzazioni Ambra
 
 
-  In [Amber Organizations](../amber-paradigm-and-organizations/),information is more widely distributed and there is a respect for logical argument. Different viewpoints are acknowledged, but there is only room for a single truth, or set of truths. Information is controlled and communicated via the organizational hierarchy. Respect for the concept of objectivity emerges, together with competing views of the orthodox and the heretical. The truth of statements issued by those in authority may be questioned, within strict limits, but the decisions and opinions of those in authority must be respected; if not, dissenters may be punished!
+  Nelle [Organizzazioni Ambra](../amber-paradigm-and-organizations/), le informazioni sono più ampiamente distribuite e c'è rispetto per l'argomentazione logica. Vengono riconosciuti diversi punti di vista, ma c'è spazio solo per una singola verità, o un insieme di verità. Le informazioni sono controllate e comunicate attraverso la gerarchia organizzativa. Emerge il rispetto per il concetto di obiettività, insieme a visioni concorrenti dell'ortodosso e dell'eretico. La verità delle dichiarazioni emesse da coloro che sono in autorità può essere messa in discussione, entro limiti rigorosi, ma le decisioni e le opinioni di coloro che sono in autorità devono essere rispettate; in caso contrario, i dissidenti possono essere puniti!
 
 
-  ### Orange Organizations
+  ### Organizzazioni Arancioni
 
 
-  In [Orange Organizations](../orange-paradigm-and-organizations/), information serves primarily as a measure for “predicting and controlling”, with the credo: the more information, the better! Using measurement information, people can design a blueprint for the organization as though it was a machine. Information owned by or coming from those of higher rank in the organization is considered to be of greater value.
+  Nelle [Organizzazioni Arancioni](../orange-paradigm-and-organizations/), le informazioni servono principalmente come misura per "prevedere e controllare", con il credo: più informazioni, meglio è! Utilizzando le informazioni di misurazione, le persone possono progettare un piano per l'organizzazione come se fosse una macchina. Le informazioni possedute o provenienti da coloro che hanno un rango più alto nell'organizzazione sono considerate di maggior valore.
 
 
-  ### Green Organizations
+  ### Organizzazioni Verdi
 
 
-  In [Green Organizations](../green-paradigm-and-organizations/), information serves as a currency for cultural value, with the purpose of inspiring members of the organization. Information flow through the system is founded on “open book” management, with inputs from all stakeholders being given equal consideration. The information content of the "open books" is still defined by "rulers" in a hierarchical structure, but those in positions of authority focus on listening to, encouraging and motivating their teams. With “family” as the guiding metaphor in Green organizations, stories are shared and everyone can ‘sing around the campfire’.
+  Nelle [Organizzazioni Verdi](../green-paradigm-and-organizations/), le informazioni servono come valuta per il valore culturale, con lo scopo di ispirare i membri dell'organizzazione. Il flusso di informazioni attraverso il sistema è basato sulla gestione "a libro aperto", con input da tutte le parti interessate che vengono considerati equamente. Il contenuto informativo dei "libri aperti" è ancora definito dai "governanti" in una struttura gerarchica, ma coloro che sono in posizioni di autorità si concentrano sull'ascolto, l'incoraggiamento e la motivazione dei loro team. Con "famiglia" come metafora guida nelle organizzazioni Green, le storie sono condivise e tutti possono 'cantare intorno al falò'.
 
 
-  ### Teal Organizations
+  ### Organizzazioni Teal
 
 
-  In [Teal Organizations](../teal-paradigm-and-organizations/), information is made available to everyone equally, on an “as-is” basis. There are no secrets, and information flows where it is needed without boundaries; this is one of the fundamental prerequisites for [self-management](../self-management/) of organizations. Members of Teal organizations still respect a distinction between the sharing of information which belongs in the organizational context, and the confidential sharing of personal information; grey areas are handled with sensitivity and integrity. The dubious value of “hearsay” (second-hand reports of unrecorded verbal communication) is clearly understood.
+  Nelle [Organizzazioni Teal](../teal-paradigm-and-organizations/), le informazioni sono rese disponibili a tutti in modo equo, "così come sono". Non ci sono segreti e le informazioni fluiscono dove necessario senza confini; questo è uno dei prerequisiti fondamentali per l'[auto-gestione](../self-management/) delle organizzazioni. I membri delle organizzazioni Teal rispettano ancora una distinzione tra la condivisione di informazioni che appartengono al contesto organizzativo e la condivisione confidenziale di informazioni personali; le aree grigie sono gestite con sensibilità e integrità. Il valore dubbio del "sentito dire" (rapporti di seconda mano di comunicazioni verbali non registrate) è chiaramente compreso.
 inPractice: >-
-  ### Share All Information!
+  ### Condividi tutte le informazioni!
 
 
-  *"If you empower people but don´t give them information, they just fumble in the dark."* (Blair Vernon)
+  *"Se dai potere alle persone ma non dai loro informazioni, brancolano nel buio."* (Blair Vernon)
 
 
-  Self-managing teams need to have all available information to make optimum [decisions ](../decision-making/)on a strategic and day-to-day basis. This means that all members of the organization must have access to all data related to the financing and operations of the organization, including salaries and performance of individuals and teams. Freely sharing information helps to build and maintain trust within the organization, and reduces the likelihood that informal hierarchies will re-emerge.
+  I team auto-gestiti devono avere tutte le informazioni disponibili per prendere decisioni ottimali [decision-making](../decision-making/) su base strategica e quotidiana. Ciò significa che tutti i membri dell'organizzazione devono avere accesso a tutti i dati relativi al finanziamento e alle operazioni dell'organizzazione, inclusi stipendi e prestazioni di individui e team. Condividere liberamente le informazioni aiuta a costruire e mantenere la fiducia all'interno dell'organizzazione e riduce la probabilità che gerarchie informali riemergano.
 
 
-  In Teal organizations, there is a culture of trust, not fear: freely sharing information does not harm anybody, and there is no need to protect sources of information through anonymity or disguise. People are trusted to handle information with integrity, and to deal with both the positive and the negative implications of all the information available to them. In this way, people have a clear of view the information that affects them and others within the organization, and no-one develops a false sense of anxiety or security.
+  Nelle organizzazioni Teal, c'è una cultura di fiducia, non di paura: condividere liberamente le informazioni non danneggia nessuno e non c'è bisogno di proteggere le fonti di informazione attraverso l'anonimato o il travestimento. Le persone sono fidate di gestire le informazioni con integrità e di affrontare sia le implicazioni positive che negative di tutte le informazioni disponibili. In questo modo, le persone hanno una visione chiara delle informazioni che le riguardano e riguardano gli altri all'interno dell'organizzazione, e nessuno sviluppa un falso senso di ansia o sicurezza.
 
 
-  When information is analyzed, contextualized and interpreted, this is not seen as a way of establishing the truth, but as a way of making the information more valuable. Valuable information flows naturally to the places where it helps to solve problems, meet challenges, drive innovation. Simply: information can now circulate freely and serve its purpose.
+  Quando le informazioni sono analizzate, contestualizzate e interpretate, questo non è visto come un modo per stabilire la verità, ma come un modo per rendere le informazioni più preziose. Le informazioni preziose fluiscono naturalmente nei luoghi dove aiutano a risolvere problemi, affrontare sfide, guidare l'innovazione. Semplicemente: le informazioni possono ora circolare liberamente e servire il loro scopo.
 
 
-  #### *Discuss and Debate! Rank-free!*
+  #### *Discuti e Dibatti! Senza gerarchie!*
 
 
-  When there is new and important information to share, “all-hands” [meetings ](../meetings/)are a standard practice in Teal organizations. Quarterly results, the annual values survey, a strategic inflection point and so forth are discussed and debated in a meeting with no script or agenda of control. This is much more than simple information exchange: instead of “predict and control”, the guiding principle of information flow is “sense and response”. If information is being shared in a way which does not serve the purpose of the organization, this can be debated openly and changes made as needed.
+  Quando ci sono nuove e importanti informazioni da condividere, gli "all-hands" [meetings](../meetings/) sono una pratica standard nelle organizzazioni Teal. I risultati trimestrali, l'indagine annuale sui valori, un punto di inflessione strategico e così via sono discussi e dibattuti in una riunione senza copione o agenda di controllo. Questo è molto più di un semplice scambio di informazioni: invece di "prevedere e controllare", il principio guida del flusso di informazioni è "percepire e rispondere". Se le informazioni vengono condivise in un modo che non serve allo scopo dell'organizzazione, questo può essere dibattuto apertamente e apportate modifiche secondo necessità.
 faq:
-  - question: What are good daily practices for sharing information?
-    answer: All-hands meetings, stand-up meetings, open intranets, discussion
-      forums, open task or work logs, blogs, open webinars.
-  - question: What indicates that information flow is "stuck"?
-    answer: Quiet meetings, culture of fear and blame, complex hierarchical
-      decision-making processes, frequent rumours, compulsory employee surveys.
+  - question: Quali sono delle buone pratiche quotidiane per condividere le informazioni?
+    answer: Riunioni all-hands, riunioni stand-up, intranet aperte, forum di discussione, registri di compiti o lavori aperti, blog, webinar aperti.
+  - question: Cosa indica che il flusso di informazioni è "bloccato"?
+    answer: Riunioni silenziose, cultura della paura e della colpa, processi decisionali gerarchici complessi, frequenti voci di corridoio, sondaggi obbligatori tra i dipendenti.
 relatedTheory:
   - wholeness
   - Self-Management
